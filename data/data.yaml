@@ -1,0 +1,16 @@
+path: ./data
+train: train/images
+val: valid/images
+test: test/images
+nc: 10
+names:
+- Comminuted
+- Greenstick
+- Healthy
+- Linear
+- Oblique Displaced
+- Oblique
+- Segmental
+- Spiral
+- Transverse Displaced
+- Transverse
